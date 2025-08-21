@@ -2,7 +2,7 @@
 
 ## Скриншоты
 
-<div style="display: flex; justify-content: center; gap: 16px;" align="center">
+<div style="display: flex; justify-content: center; gap: 160px;" align="center">
   <img src="docs/screenshots/screen_main.jpg" style="width: 30%;" alt="Main screen"/>
   <img src="docs/screenshots/screen_filters.jpg" style="width: 30%;" alt="Filters screen"/>
 </div>
