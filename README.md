@@ -3,8 +3,8 @@
 ## Скриншоты
 
 <div style="display: flex;" align="center">
-  <img src="docs/screenshots/screen_main.jpg" style="width: 35%; padding: 30px;" alt="Main screen"/>
-  <img src="docs/screenshots/screen_filters.jpg" style="width: 35%; padding: 30px;" alt="Filters screen"/>
+  <img src="docs/screenshots/screen_main.jpg" style="width: 35%; padding: 70px;" alt="Main screen"/>
+  <img src="docs/screenshots/screen_filters.jpg" style="width: 35%; padding: 70px;" alt="Filters screen"/>
 </div>
 
 ## Назначение
