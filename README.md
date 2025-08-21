@@ -4,12 +4,9 @@
 
 <div style="display: flex;" align="center">
   <img src="docs/screenshots/screen_main.jpg" style="width: 35%;" />
+  <div style="width: 10%;"></div>
   <img src="docs/screenshots/screen_filters.jpg" style="width: 35%;"/>
 </div>
-
-![Главный экран](docs/screenshots/screen_main.jpg)
-
-![Фильтры](docs/screenshots/screen_filters.jpg)
 
 ## Назначение
 Приложение для просмотра списка покемонов с возможностью поиска, сортировки и фильтрации по типам. Работает в оффлайн-режиме благодаря локальному кэшу (Room), поддерживает русскую локализацию и современный UI.
