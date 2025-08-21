@@ -2,9 +2,8 @@
 
 ## Скриншоты
 
-<div style="display: flex;" align="center">
+<div style="display: flex; justify-content: center; gap: 16px;" align="center">
   <img src="docs/screenshots/screen_main.jpg" style="width: 30%;" alt="Main screen"/>
-<div style="width: 5%;">- </div>
   <img src="docs/screenshots/screen_filters.jpg" style="width: 30%;" alt="Filters screen"/>
 </div>
 
