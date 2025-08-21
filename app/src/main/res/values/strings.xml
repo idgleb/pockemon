@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">URSOL</string>
+    <string name="pokemon_image">Изображение покемона</string>
+
+    <!-- Общие -->
+    <string name="logo">Логотип</string>
+    <string name="search_hint">Поиск…</string>
+    <string name="no_data">Данные не найдены</string>
+    <string name="no_results">Нет результатов</string>
+    <string name="scroll_to_top">Прокрутить вверх</string>
+    <string name="connection_status">Состояние соединения</string>
+    <string name="online_mode">онлайн-режим</string>
+    <string name="offline_mode">офлайн-режим</string>
+
+    <!-- Фильтры -->
+    <string name="sort_by">Сортировка</string>
+    <string name="order_number">Номер</string>
+    <string name="order_name">Имя</string>
+    <string name="order_hp">HP</string>
+    <string name="order_attack">Атака</string>
+    <string name="order_defense">Защита</string>
+    <string name="filter_by_type">Фильтр по типу</string>
+    <string name="apply_filters">Применить фильтры</string>
+    <string name="reset">Сбросить</string>
+    <string name="type_label">Тип: %1$s</string>
+    <string name="order_label">Сортировка: %1$s</string>
+    <string name="clear_all">Очистить все</string>
+    <string name="cache_empty_error">Нет данных в кэше. Попробуйте подключиться к интернету</string>
+    <string name="splash_title">URSOL GLEB</string>
+</resources>

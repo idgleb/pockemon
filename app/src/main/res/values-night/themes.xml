@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Базовая тема приложения. -->
+    <style name="Base.Theme.Pockemon" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Настройте здесь темную тему при необходимости. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>

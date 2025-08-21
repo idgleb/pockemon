@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:text="@string/sort_by"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroupOrder"
+        app:singleSelection="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipOrderNumber"
+            android:text="@string/order_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checkable="true"
+            android:checked="true"/>
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipOrderName"
+            android:text="@string/order_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checkable="true"/>
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipOrderHp"
+            android:text="@string/order_hp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checkable="true"/>
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipOrderAttack"
+            android:text="@string/order_attack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checkable="true"/>
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipOrderDefense"
+            android:text="@string/order_defense"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checkable="true"/>
+    </com.google.android.material.chip.ChipGroup>
+
+    <TextView
+        android:text="@string/filter_by_type"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroupTypes"
+        app:singleSelection="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnApply"
+        android:text="@string/apply_filters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnReset"
+        android:text="@string/reset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
