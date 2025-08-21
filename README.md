@@ -4,7 +4,7 @@
 
 <div style="display: flex;" align="center">
   <img src="docs/screenshots/screen_main.jpg" style="width: 30%;" alt="Main screen"/>
-<div style="width: 5%;"> </div>
+<p style="width: 5%;"> </p>
   <img src="docs/screenshots/screen_filters.jpg" style="width: 30%;" alt="Filters screen"/>
 </div>
 
