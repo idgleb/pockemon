@@ -2,11 +2,11 @@
 
 ## Скриншоты
 
-<table align="center" border="0" style="border-collapse: collapse;">
+<table align="center">
   <tr>
-    <td align="center" style="border: none;"><img src="docs/screenshots/screen_main.jpg" alt="Main screen" width="300"/></td>
-    <td width="48" style="border: none;">&nbsp;</td>
-    <td align="center" style="border: none;"><img src="docs/screenshots/screen_filters.jpg" alt="Filters screen" width="300"/></td>
+    <td align="center"><img src="docs/screenshots/screen_main.jpg" alt="Main screen" width="250"/></td>
+    <td width="48">&nbsp;</td>
+    <td align="center"><img src="docs/screenshots/screen_filters.jpg" alt="Filters screen" width="250"/></td>
   </tr>
 </table>
 
