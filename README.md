@@ -2,10 +2,13 @@
 
 ## Скриншоты
 
-<div style="display: flex; justify-content: center; gap: 160px;" align="center">
-  <img src="docs/screenshots/screen_main.jpg" style="width: 30%;" alt="Main screen"/>
-  <img src="docs/screenshots/screen_filters.jpg" style="width: 30%;" alt="Filters screen"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/screenshots/screen_main.jpg" alt="Main screen" width="300"/></td>
+    <td width="48">&nbsp;</td>
+    <td align="center"><img src="docs/screenshots/screen_filters.jpg" alt="Filters screen" width="300"/></td>
+  </tr>
+</table>
 
 ## Назначение
 Приложение для просмотра списка покемонов с возможностью поиска, сортировки и фильтрации по типам. Работает в оффлайн-режиме благодаря локальному кэшу (Room), поддерживает русскую локализацию и современный UI.
