@@ -1,7 +1,11 @@
 # Pockemon — описание проекта
 
 ## Скриншоты
-Добавьте файлы в каталог `docs/screenshots/` (или другой на ваш выбор) и они автоматически отобразятся ниже:
+
+<div style="display: flex;" align="center">
+  <img src="docs/screenshots/screen_main.jpg" style="width: 35%;" />
+  <img src="docs/screenshots/screen_filters.jpg" style="width: 35%;"/>
+</div>
 
 ![Главный экран](docs/screenshots/screen_main.jpg)
 
