@@ -3,9 +3,9 @@
 ## Скриншоты
 
 <div style="display: flex;" align="center">
-  <img src="docs/screenshots/screen_main.jpg" style="width: 35%;" alt="Main screen"/>
-<img src="" style="width: 5%;" alt="Main screen"/>
-  <img src="docs/screenshots/screen_filters.jpg" style="width: 35%;" alt="Filters screen"/>
+  <img src="docs/screenshots/screen_main.jpg" style="width: 30%;" alt="Main screen"/>
+<div style="width: 5%;"> </div>
+  <img src="docs/screenshots/screen_filters.jpg" style="width: 30%;" alt="Filters screen"/>
 </div>
 
 ## Назначение
